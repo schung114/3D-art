@@ -1,4 +1,4 @@
-The interactive art visualizer turns 2D shapes drawn by the user (that's you!) with a mouse into 3D revolved shapes. When you run the progam, a draw window opens where the left mouse button can be pressed or held and dragged to draw on the screen. The slower the drawing is made, the more accurate the 3D-shape will come out.
+The goal of our project is to create an interactive program that people can use to visualize 3D revolved shapes created from self-drawn cross sections. Our interactive art visualizer turns 2D shapes drawn by the user (that's you!) with a mouse into 3D revolved shapes. When you run the progam, a draw window opens where the left mouse button can be pressed or held and dragged to draw on the screen. The slower the drawing is made, the more accurate the 3D-shape will come out.
 
 <img src="introwindow.JPG" width="500" />  <img src="drawing.JPG" width="500" />
 
