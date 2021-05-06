@@ -44,7 +44,7 @@ To run the program, execute the `main.py file`. There are no necessary changes t
 Olin College of Engineering 2024\
 Mechanical Engineering
 
-<img src="sydneychung.JPG" width="150"/>\
+<img src="sydneychung.jpg" width="150"/>\
 <a href="https://www.linkedin.com/in/sydney-chung-b08569195/">Sydney Chung</a>\
 Olin College of Engineering 2024\
 Engineering with Robotics
