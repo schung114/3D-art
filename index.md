@@ -38,4 +38,13 @@ The 'pip' command can be used in a command window to install the libraries. If t
 
 To run the program, execute the `main.py file`. There are no necessary changes to run the code, other than installing the libraries.
 
+## Creators
+<img src="elias.jpg" width="150"/>\
+<a href="https://www.linkedin.com/in/elias-wheatfall-3683721b8/">Elias Wheatfall</a>\
+Olin College of Engineering 2024\
+Mechanical Engineering
 
+<img src="sydney.jpg" width="150"/>\
+<a href="https://www.linkedin.com/in/sydney-chung-b08569195/">Sydney Chung</a>\
+Olin College of Engineering 2024\
+Engineering with Robotics
