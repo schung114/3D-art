@@ -1,6 +1,6 @@
 The interactive art visualizer turns 2D shapes drawn by the user (that's you!) with a mouse into 3D revolved shapes. When you run the progam, a draw window opens where the left mouse button can be pressed or held and dragged to draw on the screen. The slower the drawing is made, the more accurate the 3D-shape will come out.
 
-<img src="introwindow.JPG" width="500" /> <img src="drawing.JPG" width="500" />
+<img src="introwindow.JPG" width="430" /> <img src="drawing.JPG" width="500" />
 
 ### How Does it Work?
 Whatever you draw with your mouse on the draw window will be revolved around the x axis (top edge of the window) to create a beautiful 3D shape! If there are any holes/gaps in your drawing in the x-axis direction, they will be automatically filled in through linear interpolation to create a continuous curve. When there are multiple points with the same x-value the highest y-value will be used when revolving the shape. When you are done drawing and are ready to see the revolved version of your masterpiece, press the 
