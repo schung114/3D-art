@@ -6,6 +6,32 @@ escape key, which will open up a color picking window. From here, you can select
 
 To access our Interactive 3D Art program on GitHub, you can check out our [project repository here](https://github.com/olincollege/Interactive-Art-Visualizer).
 
+### Installation
+To be able to run our program, the following libraries must be installed.
+
+OpenCV
+```markdown
+pip install opencv-python
+```
+NumPy
+```markdown
+pip install numpy
+```
+MatPlotLib
+```markdown
+pip install matplotlib
+```
+PySimpleGUI
+```markdown
+pip install pip install PySimpleGUI
+```
+
+The 'pip' command can be used in a command window to install the libraries. If there are issues with installing the libraries, try "python -m pip install (library name here)" instead.
+
+## Example Stuff
+
+To run the code execute the main_test.py file there are no necessary changes to run the code, other than installing the libraries.
+
 You can use the [editor on GitHub](https://github.com/schung114/interactive-3D-art-visualizer.softdes.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
