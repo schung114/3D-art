@@ -28,7 +28,7 @@ pip install pip install PySimpleGUI
 
 The 'pip' command can be used in a command window to install the libraries. If there are issues with installing the libraries, try "python -m pip install (library name here)" instead.
 
-To run the program, execute the main.py file. There are no necessary changes to run the code, other than installing the libraries.
+To run the program, execute the `main.py file`. There are no necessary changes to run the code, other than installing the libraries.
 
 ## Example Stuff
 
