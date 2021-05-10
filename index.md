@@ -1,10 +1,9 @@
-The goal of our project is to create an interactive program that people can use to visualize 3D revolved shapes created from self-drawn cross sections. Our interactive art visualizer turns 2D shapes drawn by the user (that's you!) with a mouse into 3D revolved shapes. When you run the progam, a draw window opens where the left mouse button can be pressed or held and dragged to draw on the screen. The slower the drawing is made, the more accurate the 3D-shape will come out.
+The goal of our project is to create an interactive program that people can use to visualize 3D revolved shapes created from self-drawn cross-sections. Our interactive art visualizer turns 2D shapes drawn by the user (that's you!) with a mouse into 3D revolved shapes. When you run the program, a drawing window opens where the left mouse button can be pressed or held and dragged to draw on the screen. The slower the drawing is made, the more accurate the 3D shape will come out.
 
 <img src="introwindow.JPG" width="500" />  <img src="drawing.JPG" width="500" />
 
 ### How Does it Work?
-Whatever you draw with your mouse on the draw window will be revolved around the x axis (top edge of the window) to create a beautiful 3D shape! If there are any holes/gaps in your drawing in the x-axis direction, they will be automatically filled in through linear interpolation to create a continuous curve. When there are multiple points with the same x-value the highest y-value will be used when revolving the shape. When you are done drawing and are ready to see the revolved version of your masterpiece, press the 
-escape key, which will open up a color picking window. 
+Whatever you draw with your mouse on the drawing window will be revolved around the x-axis (top edge of the window) to create a beautiful 3D shape! If there are any holes/gaps in your drawing in the x-axis direction, they will be automatically filled in through linear interpolation to create a continuous curve. When there are multiple points with the same x-value the highest y-value will be used when revolving the shape. When you are done drawing and are ready to see the revolved version of your masterpiece, press the 'Esc' key, which will open up a color-picking window. 
 
 <img src="colorpick.JPG" width="500" />
 
