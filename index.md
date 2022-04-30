@@ -46,4 +46,4 @@ Mechanical Engineering
 <img src="sydneychung.jpg" width="150"/>\
 <a href="https://www.linkedin.com/in/sydney-chung-b08569195/">Sydney Chung</a>\
 Olin College of Engineering 2024\
-Engineering with Robotics
+Mechanical Engineering
